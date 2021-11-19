@@ -133,7 +133,7 @@ export default {
    },
    data(){
       return{
-         showInfoModal: true,
+         showInfoModal: false,
          showChampionOverlay: false,
          ownChampion: undefined,
          infoIndex: 0
