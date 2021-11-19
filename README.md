@@ -1,3 +1,3 @@
 # collector
 
-If this ever gets public I'll make readme actually useful
+If this ever goes public I'll make readme actually useful
